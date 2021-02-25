@@ -98,7 +98,6 @@ class GridFieldEditableColumns extends GridFieldDataColumns implements
         $value = $this->formatValue($grid, $record, $col, $value);
 
         $field->setName($this->getFieldName($field->getName(), $grid, $record));
-        $field->setValue($value);
 
         if ($grid->isReadonly() || !$record->canEdit()) {
             $field = $field->performReadonlyTransformation();
