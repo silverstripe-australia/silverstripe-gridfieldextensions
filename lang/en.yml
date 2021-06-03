@@ -12,3 +12,5 @@ en:
     SELECTTYPETOCREATE: '(Select type to create)'
   Symbiote\GridFieldExtensions\GridFieldConfigurablePaginator:
     SHOW: Show
+  GridFieldOrderableRows:
+    REORDERED: 'Records reordered.'

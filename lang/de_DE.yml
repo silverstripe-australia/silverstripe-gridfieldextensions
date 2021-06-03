@@ -7,3 +7,5 @@ de_DE:
     ADDEXISTING: 'Bestehenden Eintrag hinzufügen'
     SEARCH: 'Suche'
     SELECTTYPETOCREATE: '(Bitte Typ auswählen)'
+  GridFieldOrderableRows:
+    REORDERED: 'Aufzeichnungen neu geordnet.'

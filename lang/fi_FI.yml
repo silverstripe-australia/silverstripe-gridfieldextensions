@@ -7,3 +7,5 @@ fi_FI:
     ADDEXISTING: 'Lisää olemassa oleva'
     SEARCH: 'Etsi'
     SELECTTYPETOCREATE: 'Valitse lisättävä tyyppi'
+  GridFieldOrderableRows:
+    REORDERED: 'Tietueet järjestetty uudelleen.'

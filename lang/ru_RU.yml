@@ -7,3 +7,5 @@ ru_RU:
     ADDEXISTING: 'Добавить существующий'
     SEARCH: 'Поиск'
     SELECTTYPETOCREATE: '(Выберите тип для создания)'
+  GridFieldOrderableRows:
+    REORDERED: 'Записи переупорядочены.'

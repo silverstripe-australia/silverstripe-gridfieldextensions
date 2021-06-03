@@ -7,3 +7,5 @@ et_EE:
     ADDEXISTING: 'Lisa olemasolev'
     SEARCH: Otsi
     SELECTTYPETOCREATE: '(Valige lisamiseks tüüp)'
+  GridFieldOrderableRows:
+    REORDERED: 'Kirjed järjestati ümber.'

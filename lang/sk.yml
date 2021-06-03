@@ -7,3 +7,5 @@ sk:
     ADDEXISTING: Pridať existujúci
     SEARCH: Hľadať
     SELECTTYPETOCREATE: '(Prosím, vyberte typ)'
+  GridFieldOrderableRows:
+    REORDERED: 'Poradie záznamov bolo zmenené.'
