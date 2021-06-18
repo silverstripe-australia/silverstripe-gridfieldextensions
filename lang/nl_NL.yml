@@ -7,3 +7,6 @@ nl_NL:
     ADDEXISTING: 'Bestaande toevoegen'
     SEARCH: 'Zoeken'
     SELECTTYPETOCREATE: '(Selecteer type om te creeën)'
+  GridFieldOrderableRows:
+    REORDERED: 'Records opnieuw geordend.'
+

@@ -7,3 +7,5 @@ it_IT:
     ADDEXISTING: 'Aggiungi esistente'
     SEARCH: 'Cerca'
     SELECTTYPETOCREATE: '(Seleziona tipo per creare)'
+  GridFieldOrderableRows:
+    REORDERED: 'Registri riordinati.'
